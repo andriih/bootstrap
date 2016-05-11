@@ -6,7 +6,7 @@ body{
 /*BUTTONS*/
 .my_btn{
 	background-color: #e84545;
-	border: name;
+	border: none;
 	text-transform: uppercase;
 }
 .btn_md{
@@ -25,12 +25,18 @@ header{
 nav{
 	height: 94px;
 	line-height: 94px;
-	
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+
+	z-index: 9999;
 }
 
 .menu{
 	list-style-type: none;
-
+	margin: 0;
+	padding: 0;
 }
 
 .menu li{
@@ -62,7 +68,7 @@ nav{
 .tittle_block{
 	color: #fff;
 	text-align: center;
-	margin-top: 100px;
+	margin-top: 200px;
 }
 
 .tittle_block h1{
