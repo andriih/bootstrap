@@ -53,6 +53,7 @@
 		height: 40px;
 		width: 40px;
 		border-radius: 50%;
+		color: #fff;
 		background-color: #e84545;
 	}
 	#top_menu{
@@ -74,6 +75,9 @@
 	}
 	.title_block{
 		margin-top: 130px;
+	}
+	.menu_btn span{
+		top: -16px;
 	}
 }
 
@@ -97,6 +101,7 @@
 		height: 40px;
 		width: 40px;
 		border-radius: 50%;
+		color: #fff;
 		background-color: #e84545;
 	}
 	#top_menu{
@@ -118,6 +123,16 @@
 	}
 	.title_block{
 		margin-top: 130px;
+	}
+	.menu_btn span{
+		top: -16px;
+	}
+
+	.title_block h1 {
+		font-size:30px;
+	}
+	.title_block p {
+		font-size:14px;
 	}
 
 }
@@ -142,6 +157,7 @@
 		height: 40px;
 		width: 40px;
 		border-radius: 50%;
+		color: #fff;
 		background-color: #e84545;
 	}
 	#top_menu{
@@ -163,6 +179,15 @@
 	}
 	.title_block{
 		margin-top: 130px;
+	}
+	.menu_btn span{
+		top: -16px;
+	}
+	.title_block h1 {
+		font-size:30px;
+	}
+	.title_block p {
+		font-size:14px;
 	}
 	
 }

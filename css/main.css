@@ -65,19 +65,19 @@ nav{
 
 }
 
-.tittle_block{
+.title_block{
 	color: #fff;
 	text-align: center;
 	margin-top: 200px;
 }
 
-.tittle_block h1{
+.title_block h1{
 	font-size: 50px;
 	font-family: 'RalewayBold', sans-serif;
 	margin-bottom: 30px;
 }
 
-.tittle_block p{
+.title_block p{
 	font-size: 20px;
 	margin-bottom: 50px;
 }
