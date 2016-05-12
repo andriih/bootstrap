@@ -7,7 +7,9 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
-
+.team_item{
+	margin-bottom: 30px;
+}
 }
 
 /* Small Devices, Tablets */
@@ -79,6 +81,9 @@
 	.menu_btn span{
 		top: -16px;
 	}
+	.team_item{
+	margin-bottom: 30px;
+}
 }
 
 /* Extra Small Devices, Phones */
@@ -134,6 +139,9 @@
 	.title_block p {
 		font-size:14px;
 	}
+	.team_item{
+	margin-bottom: 30px;
+}
 
 }
 
@@ -189,6 +197,9 @@
 	.title_block p {
 		font-size:14px;
 	}
+	.team_item{
+	margin-bottom: 30px;
+}
 	
 }
 
