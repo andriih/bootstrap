@@ -20,6 +20,10 @@ body{
 	padding: 15px 50px;
 }
 
+.white_btn{
+	color: #fff;
+	border-color: #fff;
+}
 /*HEADER*/
 
 header{
@@ -167,11 +171,20 @@ nav{
 	padding: 10px 0;
 }
 
-.sot_btn{
+.soc_btn_grey{
 border: 1px solid #5c7279;
 background-color: transparent;
 padding: 5px 10px;
 color: #5c7279;
+width: 30px;
+height: 30px;
+}
+
+.soc_btn_white{
+border: 1px solid #fff;
+background-color: transparent;
+padding: 5px 10px;
+color: #fff;
 width: 30px;
 height: 30px;
 }
@@ -198,6 +211,7 @@ height: 30px;
 }
 .footer_item{
 	text-align: center;
+	margin-bottom: 20px;
 }
 
 .footer_item h5{
@@ -208,4 +222,13 @@ height: 30px;
 .footer_item p{
 	font-size: 14px;
 	color:#9d9fb2;
+}
+
+.copyright_block{
+	color: #313454;
+	text-align: center;
+	padding: 30px 0;
+}
+.copy_txt{
+	color: #000;
 }

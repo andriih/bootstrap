@@ -83,6 +83,13 @@
 	}
 	.team_item{
 	margin-bottom: 30px;
+
+	.dawnload{
+		padding: 20px 0 50px 0;
+	}
+	.team_s{
+		padding: 60px 0 40px 0;
+	}
 }
 }
 
@@ -141,6 +148,12 @@
 	}
 	.team_item{
 	margin-bottom: 30px;
+	.dawnload{
+		padding: 20px 0 50px 0;
+	}
+	.team_s{
+		padding: 60px 0 40px 0;
+	}
 }
 
 }
@@ -199,6 +212,13 @@
 	}
 	.team_item{
 	margin-bottom: 30px;
+	
+	.dawnload{
+		padding: 20px 0 50px 0;
+	}
+	.team_s{
+		padding: 60px 0 40px 0;
+	}
 }
 	
 }
