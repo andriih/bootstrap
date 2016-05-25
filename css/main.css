@@ -24,6 +24,18 @@ body{
 	color: #fff;
 	border-color: #fff;
 }
+.call_btn{
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	color: #fff;
+	background-color: #e84545;
+	border: none;
+	z-index: 999;
+}
 /*HEADER*/
 
 header{
@@ -41,7 +53,7 @@ nav{
 	left: 0;
 	width: 100%;
 
-	z-index: 9999;
+	z-index: 99;
 }
 
 .menu{
@@ -225,10 +237,20 @@ height: 30px;
 }
 
 .copyright_block{
-	color: #313454;
+	background-color: #313454;
 	text-align: center;
 	padding: 30px 0;
 }
 .copy_txt{
-	color: #000;
+
+	color: #9f9db2;
+}
+
+/*MODALS*/
+#dlForm{
+	width: 70%;
+	margin:0 auto;
+}
+#dlForm input{
+	margin-bottom: 10px;
 }

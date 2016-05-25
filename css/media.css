@@ -9,7 +9,7 @@
 @media only screen and (max-width : 992px) {
 .team_item{
 	margin-bottom: 30px;
-}
+	}
 }
 
 /* Small Devices, Tablets */
@@ -83,14 +83,16 @@
 	}
 	.team_item{
 	margin-bottom: 30px;
-
+	}
 	.dawnload{
-		padding: 20px 0 50px 0;
+	padding: 20px 0 50px 0;
 	}
 	.team_s{
 		padding: 60px 0 40px 0;
 	}
-}
+	#dlForm{
+		width: 100%;
+	}
 }
 
 /* Extra Small Devices, Phones */
@@ -148,15 +150,24 @@
 	}
 	.team_item{
 	margin-bottom: 30px;
+	}
 	.dawnload{
-		padding: 20px 0 50px 0;
+	padding: 20px 0 50px 0;
 	}
 	.team_s{
 		padding: 60px 0 40px 0;
 	}
+	#dlForm{
+		width: 100%;
+	}
+	.call_btn{
+		top: 8px;
+		right: 60px;
+
+		
+	}
 }
 
-}
 
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
@@ -212,15 +223,20 @@
 	}
 	.team_item{
 	margin-bottom: 30px;
-	
+	}
 	.dawnload{
-		padding: 20px 0 50px 0;
+	padding: 20px 0 50px 0;
 	}
 	.team_s{
 		padding: 60px 0 40px 0;
 	}
-}
-	
+	#dlForm{
+		width: 100%;
+	}
+	.call_btn{
+		top: 8px;
+		right: 60px;		
+	}
 }
 
 
